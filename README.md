@@ -13,11 +13,11 @@
 
 ## 4.Images and corresponding probability that predicted Right
 
-![image](https://user-images.githubusercontent.com/51478604/83431709-bfd73300-a472-11ea-84b4-0f003f9c0fec.png)
+![image](https://user-images.githubusercontent.com/51478604/83633453-f086ac00-a5db-11ea-9c19-b84f3e48af52.png)
 
 ## 5.Images and corresponding probability that predicted Wrong
 
-![image](https://user-images.githubusercontent.com/51478604/83430491-b9e05280-a470-11ea-9bd7-394bbeec8780.png)
+![image](https://user-images.githubusercontent.com/51478604/83633470-f8dee700-a5db-11ea-8325-b8e58ea4fc97.png)
 
 # MODEL 2
 ![image](https://user-images.githubusercontent.com/51478604/83432135-64597500-a473-11ea-971a-bae074d2cc07.png)
